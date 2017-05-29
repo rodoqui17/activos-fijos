@@ -1,0 +1,21 @@
+{
+  "name": "proyecto-activos-fijos",
+  "version": "1.0.0",
+  "description": "Proyecto open source del manejo del los activos fijos de una empresa, calcular depreciacion de los activos, entre otros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "activos",
+    "fijos",
+    "depreciacion",
+    "de",
+    "bienes",
+    "gestion",
+    "de",
+    "activos"
+  ],
+  "author": "Penelope Lizardo",
+  "license": "MIT"
+}
