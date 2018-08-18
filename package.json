@@ -4,8 +4,9 @@
   "description": "Proyecto open source del manejo del los activos fijos de una empresa, calcular depreciacion de los activos, entre otros.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"npm start"
+      },
   "keywords": [
     "activos",
     "fijos",
